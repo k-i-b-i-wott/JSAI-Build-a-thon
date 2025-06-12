@@ -1,0 +1,17 @@
+{
+  "name": "jsai-build-a-thon",
+  "version": "1.0.0",
+  "description": "> To reset your progress and select a different quest, click this button:\r >\r > [![Reset Progress](https://img.shields.io/badge/Reset--Progress-ff3860?logo=mattermost)](../../issues/new?title=Reset+Progress:+Back+to+Welcome&labels=reset&body=🔄+I+want+to+reset+my+progress+and+go+back+to+the+Welcome+page.%0A%0A**Please+wait+about+15+seconds.+Your+progress+will+be+reset,+this+issue+will+automatically+close,+and+you+will+be+taken+back+to+the+Welcome+page+to+select+a+new+quest.**)",
+  "main": "sample.js",
+  "type": "module",
+  "dependencies": {
+    "@mistralai/mistralai": "^1.7.2",
+    "dotenv": "^16.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
