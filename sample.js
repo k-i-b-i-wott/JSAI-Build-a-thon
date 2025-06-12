@@ -3,6 +3,8 @@ import { Mistral } from '@mistralai/mistralai';
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+// Baq0NL1NM5AfFwcWeAkibR6BORad6RsUzP6eSiIY6LUmns8e5MKBJQQJ99BFACrIdLPXJ3w3AAAAACOG4Fwa
+
 
 const token = process.env["GITHUB_TOKEN"];
 const endpoint = "https://models.github.ai/inference";
