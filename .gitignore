@@ -405,3 +405,4 @@ FodyWeavers.xsd
 
 # Node.js dependencies
 node_modules/
+.azure
