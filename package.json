@@ -8,7 +8,8 @@
     "@azure-rest/ai-inference": "^1.0.0-beta.6",
     "@azure/openai": "^2.0.0",
     "@mistralai/mistralai": "^1.7.2",
-    "dotenv": "^16.5.0"
+    "dotenv": "^16.5.0",
+    "pdf-parse": "^1.1.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
