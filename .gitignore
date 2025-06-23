@@ -409,3 +409,7 @@ FodyWeavers.xsd
 # Node.js dependencies
 node_modules/
 .azure
+
+genaiscript.d.ts
+tsconfig.json
+jsconfig.json
